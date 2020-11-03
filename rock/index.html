@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="http://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- header -->
+
+    <header>
+        <p>Rock, Paper, Scissors</p>
+    </header>
+
+    <!-- main -->
+
+    <main id="main">
+        <div class="bg" id="bg">
+            <button id="startBtn">PLAY GAME</button>
+            <div id="container" class="container">
+                <div id="cont">
+                    <div id="contT">
+                        <p id="hide"></p>
+                    </div>
+                    <section id="client">
+                        <div id="rockB">
+                            <img class="img" src="rock.png" alt="">
+                            <p>Rock </p>
+                        </div>
+                        <div id="paperB">
+                            <img class="img" src="paper.png" alt="">
+                            <p>Paper </p>
+                        </div>
+                        <div id="scissorsB">
+                            <img class="img" src="scissors.png" alt="">
+                            <p>Scissors </p>
+                        </div>
+                    </section>
+                </div>
+                <div>
+                    <p id="winner"></p>
+                    <p id="toHide" style="font-size: 13px;">Chose Rock,Paper or Scissors to play.</p>
+                </div>
+                <div id="btns" class="btns-f">
+                    <div>
+                        <button class="clientBtn" id="rock"> <img class="img" src="rock.png" alt="">
+                        </button>
+                        <p class="op">Rock</p>
+                    </div>
+                    <div>
+                        <button class="clientBtn" id="papper"> <img class="img" src="paper.png" alt="">
+                        </button>
+                        <p class="op">Paper</p>
+                    </div>
+                    <div>
+                        <button class="clientBtn" id="sceaser"> <img class="img" src="scissors.png" alt="">
+                        </button>
+                        <p class="op">Scissors</p>
+                    </div>
+                </div>
+                <div class="resolt" id="resolt">
+                    <h1>Result: </h1>
+                    <div class="table" id="table">
+                        <div>
+                            <h4>CPU poing:</h4>
+                            <p id="text"> </p>
+                        </div>
+                        <div>
+                            <h4>Your poing:</h4>
+                            <p id="text2"> </p>
+                        </div>
+                    </div>
+                    <h1 id="finalResolt"></h1>
+                </div>
+                <div id="restart">
+                    <a href="index.html" id="btnRes">Play agian</a>
+                </div>
+            </div>
+        </div>
+        </div>
+
+    </main>
+
+
+    <!-- footer -->
+
+    <footer>
+        <p>&copy; | Pakdel</p>
+    </footer>
+
+
+    <script src="main.js"></script>
+</body>
+
+</html>

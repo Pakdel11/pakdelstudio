@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        font-size: 52.49px;
+        fill: #fafafa;
+        text-anchor: middle;
+        font-family: "Myriad Pro";
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #e400ff;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        stroke: #4ce057;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke: aqua;
+      }
+
+      .cls-4 {
+        stroke: #e405f8;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 6.99px;
+        stroke-dasharray: 0.001 13.98;
+        stroke: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="332.75" y1="671.125" x2="332.75" y2="116.313" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fafafa"/>
+      <stop offset="1" stop-color="#e405f8"/>
+    </linearGradient>
+  </defs>
+  <text id="D" class="cls-1" transform="translate(472.548 753.252) scale(14.988)"><tspan x="0">D</tspan></text>
+  <path id="Shape_2_copy" data-name="Shape 2 copy" class="cls-2" d="M268.928,183.414l-1.18,687.552"/>
+  <path id="Shape_2_copy_2" data-name="Shape 2 copy 2" class="cls-3" d="M274.393,158.834l-1.181,687.553"/>
+  <path class="cls-4" d="M273.449,158.5l-1.18,687.552"/>
+  <path id="Shape_2_copy-2" data-name="Shape 2 copy" class="cls-2" d="M378.418,281.375L360.439,718.729"/>
+  <path id="Shape_2_copy_2-2" data-name="Shape 2 copy 2" class="cls-3" d="M382.51,265.875L364.531,703.23"/>
+  <path class="cls-4" d="M381.918,265.641L363.939,703"/>
+  <path class="cls-5" d="M374.953,281.563s13.861,73.263,101.959,103.449,159.161,182.782-16.5,266.336S96.894,526.688,96.894,526.688,300.11,598.562,295.316,415.872s-41.737-299.55-41.737-299.55"/>
+</svg>
